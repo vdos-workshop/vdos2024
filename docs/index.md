@@ -1,17 +1,13 @@
-# VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies
+## VDOS 2024: The 13th International Workshop on Vaccine and Drug Ontology Studies.
+Refer to the [ICBO website](https://icbo-conference.github.io/icbo2024/) for more information on other workshops and the main conference. 
 
-## Location
-Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
-In-person: There will be __NO__ in-person onsite meeting this year. We are sorry for the inconvenience. 
-
-## Conference Dates
-- Paper submission: June 30, 2023<BR>
-- Notification of acceptance: July 31, 2023<BR>
-- Last abstract submission: August 4, 2023<BR>
-- Acceptance of abstract: August 11, 2023<BR>
-- Workshop: __August 29th, 2023 (8:30 AM – noon Brazilian time)<BR>
-                            (7:30 AM - 11 AM Eastern Daylight Time)<BR>__
-- Submission to journal: [JBMS VDOS Collection by __October 31, 2023__](https://jbiomedsem.biomedcentral.com/articles/collections)<BR>
+## Conference Dates 
+Paper submission: May 31, 2024<BR>
+Notification of acceptance: June 21, 2024<BR>
+Last abstract submission: June 14, 2024<BR>
+Acceptance of abstract: June 28, 2024<BR>
+Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
+Submission to journal: JBMS (deadline TBD)<BR>
 
 ## Recording and Publishing Disclaimer
 By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
