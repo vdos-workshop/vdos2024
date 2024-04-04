@@ -1,3 +1,8 @@
+# VDOS-2024: Program
+
+Program to be announced.
+
+<!--
 # VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies (August 29th, 2023)
 Virtual: Zoom (the link will be provided to the registered participants before the workshop)<BR>
 
@@ -24,3 +29,4 @@ Virtual: Zoom (the link will be provided to the registered participants before t
 ## Conference Videos
 
 Playlists of the current and previous VDOS conference recordings are available on [YouTube](https://www.youtube.com/channel/UCUT0MwXxAFnekhsSJVmHTJw/playlists).  
+-->
