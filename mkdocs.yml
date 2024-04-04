@@ -1,6 +1,6 @@
-site_name: "VDOS-2023: International Workshop on Vaccine and Drug Ontology Studies"
-repo_url: https://github.com/vdos-workshop/vdos2023/
-edit_uri: '?query=root/vdos2023/docs/'
+site_name: "VDOS-2024: International Workshop on Vaccine and Drug Ontology Studies"
+repo_url: https://github.com/vdos-workshop/vdos2024/
+edit_uri: '?query=root/vdos2024/docs/'
 theme:
   name: readthedocs
 nav:
