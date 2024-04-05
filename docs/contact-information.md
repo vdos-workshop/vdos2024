@@ -4,4 +4,4 @@ Please send your questions or comments to:
 
 **Yongqun He:** yongqunh@med.umich.edu
 
-**Cui Tao:** cui.tao@uth.tmc.edu
+**Cui Tao:** tao.cui@mayo.edu
