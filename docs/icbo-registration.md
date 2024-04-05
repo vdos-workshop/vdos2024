@@ -1,5 +1,4 @@
 # ICBO 2024 Registration
 
-[https://www.icbo2023.ncor-brasil.org/registration.html](https://icbo-conference.github.io/icbo2024/#15th-international-conference-on-biological-and-biomedical-ontology)
+Please refer to the [2024 ICBO website](https://icbo-conference.github.io/icbo2024/) for more details. 
 
-Let us know if you have any questions.
