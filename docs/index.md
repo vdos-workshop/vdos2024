@@ -9,7 +9,7 @@ Notification of acceptance: June 21, 2024<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
-Submission to journal: JBMS (deadline TBD)<BR>
+Submission to journal: JBMS (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
 
 ## Recording and Publishing Disclaimer
 By participating in this workshop, attendees acknowledge and agree that the workshop will be recorded and that their participation, including any comments, questions, and visual/audio presence, may be captured during this recording. The recorded content may be edited, repurposed, or otherwise modified by the workshop organizers, who reserve the right to publish the content on platforms, including but not limited to YouTube. By participating, attendees grant the workshop organizers the irrevocable right to use the recorded content for promotional, educational, and other appropriate purposes without further notice or compensation. By continuing with participation, attendees confirm their understanding and agreement to these terms.
