@@ -1,6 +1,6 @@
 # VDOS 2024 Call For Submissions 
 
-The 13th International Workshop on Vaccine and Drug Ontology Studies will be held along with the 15th International Conference on Biomedical Ontology (ICBO 2024). This year, we extend our focus to encompass artificial intelligence's transformative role in drug and vaccine ontology research. The workshop aims to explore innovative solutions and challenges in representing and analyzing drugs and vaccines, covering administration, immune responses, adverse events, and more. Key topics include the ontological representation of drugs and vaccines, real-world application challenges, drug components, administration, immune responses, drug interactions, and adverse events in clinical and research settings. A special emphasis will be placed on how AI can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation. Despite progress, challenges remain in fully representing and utilizing ontologies for research and clinical issues, such as detailed representation of administration and adverse events, drug interactions, and analysis of immune responses. The workshop will bring together experts from clinical, research, and pharma-biotech sectors to discuss solutions to these challenges, aiming to foster advancements in drug development, administration, and the integration of AI in ontological research. Our goal is to contribute to public health improvement by enhancing the understanding and application of drug and vaccine ontologies.
+The 13th International Workshop on Vaccine and Drug Ontology Studies will be held along with the 15th International Conference on Biomedical Ontology (ICBO 2024). This year, we extend our focus to encompass artificial intelligence's transformative role in drug and vaccine ontology research. The workshop explores innovative solutions and challenges in representing and analyzing drugs and vaccines, covering administration, immune responses, adverse events, and more. Key topics include the ontological representation of drugs and vaccines, real-world application challenges, drug components, administration, immune responses, drug interactions, and adverse events in clinical and research settings. A special emphasis will be placed on how AI can revolutionize ontology studies, enhancing literature mining, meta-analysis, and complex data interpretation. Despite progress, challenges remain in fully representing and utilizing ontologies for research and clinical issues, such as detailed representation of administration and adverse events, drug interactions, and analysis of immune responses. The workshop will bring together experts from clinical, research, and pharma-biotech sectors to discuss solutions to these challenges, aiming to foster advancements in drug development, administration, and the integration of AI in ontological research. Our goal is to contribute to public health improvement by enhancing the understanding and application of drug and vaccine ontologies.
 
 ## Venue
 
@@ -12,16 +12,19 @@ Notification of acceptance: June 21, 2024<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
-Submission to journal: JBMS (deadline TBD)<BR>
+Submission to journal: JBMS (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
   
 ## Submission Format
 For the paper submission, we will allow three submission formats:<BR>
 •	full research papers (6-8 pages) format<BR>
 •	work in progress / late-breaking results (2-3 pages), and<BR>
-•	a statement of interest (one page) for podium presentation.<BR>
-The paper format will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://www.icbo2024.ncor-brasil.org/papers/CEUR-Template-1col.docx), single column. 
+•	a statement of interest (one page) for podium presentation.<BR><BR>
 
-All the papers will be submitted and handled through EasyChair: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024) <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. All full-length papers and selected short papers will be invited to submit a fully revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. 
+The paper format will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://www.icbo2024.ncor-brasil.org/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
+
+All the papers will be submitted and handled through <b>EasyChair</b>: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024) <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. All full-length papers and selected short papers will be invited to submit a fully revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. 
+
+Alternatively, you can submit your full-length paper directly to JBMS now as instructed with the JBMS VDOS collection link above; however, there is no guarantee that the journal submission will be reviewed in time with feedback before the workshop. These JBMS-direct papers should follow and meet the [JBMS guidelines](https://jbiomedsci.biomedcentral.com/submission-guidelines). Note that JBMS does not have strict length and page limits. 
 
 ## Poster preparation guideline
 VDOS will not have a separate poster session; however, we expect all the papers selected for presentation will be encouraged to present a poster at the main ICBO conference.
