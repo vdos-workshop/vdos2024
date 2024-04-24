@@ -12,7 +12,7 @@ Notification of acceptance: June 21, 2024<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
-Submission to journal: JBMS (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
+Submission to journal: JBMS VDOS collection (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
   
 ## Submission Format
 For the paper submission, we will allow three submission formats:<BR>
@@ -22,17 +22,10 @@ For the paper submission, we will allow three submission formats:<BR>
 
 The paper format will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://www.icbo2024.ncor-brasil.org/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
 
-All the papers will be submitted and handled through <b>EasyChair</b>: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024) <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. All full-length papers and selected short papers will be invited to submit a fully revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. 
-
-Alternatively, you can submit your full-length paper directly to JBMS now as instructed with the JBMS VDOS collection link above; however, there is no guarantee that the journal submission will be reviewed in time with feedback before the workshop. These JBMS-direct papers should follow and meet the [JBMS guidelines](https://jbiomedsci.biomedcentral.com/submission-guidelines). Note that JBMS does not have strict length and page limits. 
+All the papers will be submitted and handled through <b>EasyChair</b>: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024) <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. 
 
 ## Poster preparation guideline
-VDOS will not have a separate poster session; however, we expect all the papers selected for presentation will be encouraged to present a poster at the main ICBO conference.
+VDOS will not have a separate poster session; however, all the papers selected for presentation are encouraged to present a poster at the main ICBO conference.
 
-## VDOS 2024 theme: Lessons from Ontologies in Diverse Domains 
-
-Details are to be disclosed later.
-
-### Journal of Biomedical Semantics ICBO Thematic Series Option
-
-Details are to be disclosed later.
+### Journal of Biomedical Semantics (JBMS) journal VDOS Collection
+All accepted full-length papers and selected short papers will be invited to submit a fully revised version to the JBMS VDOS Collection. Alternatively, authors may submit their full-length papers directly to the JBMS VDOS collection at any time (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023)). The JBMS Editorial Office conducts an initial quality check on all submitted manuscripts. The VDOS organizers will then handle the review process and may invite some authors to present at the upcoming VDOS workshop, even if their manuscripts are not accepted for publication. It should be noted that there is no guarantee that submissions to the journal will be reviewed and receive feedback before the workshop. Submissions made directly to JBMS should adhere to the [JBMS guidelines](https://jbiomedsci.biomedcentral.com/submission-guidelines). Please note that JBMS does not impose strict limits on the length and page count of manuscripts.
