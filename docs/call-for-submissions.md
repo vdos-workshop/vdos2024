@@ -12,20 +12,20 @@ Notification of acceptance: June 21, 2024<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
-Submission to journal: JBMS VDOS collection (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
-  
+Submission to journal: **JBMS VDOS collection** (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
+Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024)<BR>
+
+We suggest that you submit your papers directly to JBMS if you think your paper meets the journal paper quality. Please follow the JBMS paper submission instructions, and remember to select the **[JBMS VDOS collection](https://www.biomedcentral.com/collections/vdos2023)** link (Note: the collection is labeled as **vdos2023**, but it can still be used for vdos2024 submission). Please note that there is no guarantee that the journal submission will be reviewed before the workshop. If the journal submission is not reviewed in a timely manner, the authors may be suggested to submit an abstract to EasyChair so that they may still be able to present the paper in the workshop.  
+
+If your paper is more preliminary but is suitable for the conference presentation, we suggest you submit it to our **[EasyChair](https://easychair.org/my/conference?conf=vdos2024)**. For the EasyChair submissions, all selected full-length papers and short papers will be invited to submit a full revised version to the Journal of Biomedical Semantics (JBMS) VDOS Special Issue. The conference paper format for EasyChair submission will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://www.icbo2024.ncor-brasil.org/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
+
 ## Submission Format
-For the paper submission, we will allow three submission formats:<BR>
+For the **[EasyChair](https://easychair.org/my/conference?conf=vdos2024)** paper submission, we will allow three submission formats:<BR>
 •	full research papers (6-8 pages) format<BR>
 •	work in progress / late-breaking results (2-3 pages), and<BR>
-•	a statement of interest (one page) for podium presentation.<BR><BR>
+•	a statement of interest (one page) for podium presentation.<BR>
 
-The paper format will be the same as the format used in ICBO. Contributions must be delivered non-anonymously and as a single PDF file, following the CEUR-ART [template.docx file](https://www.icbo2024.ncor-brasil.org/papers/CEUR-Template-1col.docx), single column. There is also an Overleaf Template available [here](https://www.overleaf.com/latex/templates/template-for-submissions-to-ceur-workshop-proceedings-ceur-ws-dot-org/wqyfdgftmcfw).<br>
-
-All the papers will be submitted and handled through <b>EasyChair</b>: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024) <BR>All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. 
-
-## Poster preparation guideline
-VDOS will not have a separate poster session; however, all the papers selected for presentation are encouraged to present a poster at the main ICBO conference.
+All full-length (6-8 pages) and short-length (2-3 pages) submissions will go through peer reviews by at least two reviewers. The workshop organizers will review the one-page statement-of-interest submissions. 
 
 ### Journal of Biomedical Semantics (JBMS) journal VDOS Collection
-All accepted full-length papers and selected short papers will be invited to submit a fully revised version to the JBMS VDOS Collection. Alternatively, authors may submit their full-length papers directly to the JBMS VDOS collection at any time (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023)). The JBMS Editorial Office conducts an initial quality check on all submitted manuscripts. The VDOS organizers will then handle the review process and may invite some authors to present at the upcoming VDOS workshop, even if their manuscripts are not accepted for publication. It should be noted that there is no guarantee that submissions to the journal will be reviewed and receive feedback before the workshop. Submissions made directly to JBMS should adhere to the [JBMS guidelines](https://jbiomedsci.biomedcentral.com/submission-guidelines). Please note that JBMS does not impose strict limits on the length and page count of manuscripts.
+As mentioned above, all accepted full-length and selected short papers will be invited to submit a fully revised version to the JBMS VDOS Collection. Alternatively, authors may submit their full-length papers directly to the JBMS VDOS collection at any time (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023)). The JBMS Editorial Office conducts an initial quality check on all submitted manuscripts. The VDOS organizers will then handle the review process and may invite some authors to present at the upcoming VDOS workshop, even if their manuscripts are not accepted for publication. It should be noted that there is no guarantee that submissions to the journal will be reviewed and feedback will be received before the workshop. Submissions made directly to JBMS should adhere to the [JBMS guidelines](https://jbiomedsci.biomedcentral.com/submission-guidelines). Please note that JBMS does not impose strict limits on the length and page count of manuscripts.
