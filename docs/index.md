@@ -4,8 +4,8 @@ The 13th International Workshop on Vaccine and Drug Ontology Studies will be hel
 Please, refer to the [ICBO website](https://icbo-conference.github.io/icbo2024/) for more information on other workshops and the main ICBO conference. 
 
 ## Conference Dates 
-Paper submission: May 31, 2024<BR>
-Notification of acceptance: June 21, 2024<BR>
+Paper submission: ~~May 31, 2024~~ (extended to **June 7, 2024**)<BR>
+Notification of acceptance: ~~June 21, 2024~~ (**June 28, 2024**)<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
