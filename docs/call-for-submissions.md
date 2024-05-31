@@ -7,8 +7,8 @@ The 13th International Workshop on Vaccine and Drug Ontology Studies will be hel
 This meeting will be held online. A Zoom link will be provided to the registered participants before the workshop.
 
 ## Conference Dates 
-Paper submission: May 31, 2024<BR>
-Notification of acceptance: June 21, 2024<BR>
+Paper submission: ~~May 31, 2024~~ (extended to **June 7, 2024**)<BR>
+Notification of acceptance: ~~June 21, 2024~~ (**June 28, 2024**)<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR>
 Workshop: July 22, 2024 (Tentative time: 9 AM – noon EDT) <BR>
