@@ -8,6 +8,9 @@ Paper submission: <del>May 31, 2024</del> (extended to **June 7, 2024**)<BR>
 Notification of acceptance: <del>June 21, 2024</del> (**June 28, 2024**)<BR>
 Last abstract submission: June 14, 2024<BR>
 Acceptance of abstract: June 28, 2024<BR><BR>
+
+Workshop: **July 22, 2024 (9 AM – noon EDT)**<BR>
+**Registration**: Please register for the [VDOS 2024 workshop](https://docs.google.com/forms/d/e/1FAIpQLScHMkduCa1Z6LVWRk62QZ79W4HpRGqoFmTeiQ9fJodoHTuLDQ/viewform) free of charge.<BR><BR>
 Zoom link: Please see the [Program](./program.md) page.<BR><BR>
 Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024)<BR>
