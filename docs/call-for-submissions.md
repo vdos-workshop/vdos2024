@@ -10,13 +10,11 @@ This meeting will be held online. A Zoom link will be provided to the registered
 Paper submission: <del>May 31, 2024</del> (extended to **June 7, 2024**)<BR>
 Notification of acceptance: <del>June 21, 2024</del> (**June 28, 2024**)<BR>
 Last abstract submission: June 14, 2024<BR>
-Acceptance of abstract: June 28, 2024<BR>
-<BR>
+Acceptance of abstract: June 28, 2024<BR><BR>
 Workshop: **July 22, 2024 (9 AM – noon EDT)**<BR>
-**Registration**: Please register for the [VDOS 2024 workshop](https://docs.google.com/forms/d/e/1FAIpQLScHMkduCa1Z6LVWRk62QZ79W4HpRGqoFmTeiQ9fJodoHTuLDQ/viewform) free of charge.<BR>
-
-Zoom link: (To be announced via email for registrants) <BR><BR>
-Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdos2023](https://www.biomedcentral.com/collections/vdos2023))<BR>
+**Registration**: Please register for the [VDOS 2024 workshop](https://docs.google.com/forms/d/e/1FAIpQLScHMkduCa1Z6LVWRk62QZ79W4HpRGqoFmTeiQ9fJodoHTuLDQ/viewform) free of charge.<BR><BR>
+Zoom link: Please see the [Program](./program.md) page.<BR><BR>
+Submission to journal: **JBMS** (continuous; [https://www.biomedcentral.com/collections/vdosseries](https://www.biomedcentral.com/collections/vdosseries))<BR>
 Alternatively, submission to **EasyChair**: [https://easychair.org/my/conference?conf=vdos2024](https://easychair.org/my/conference?conf=vdos2024)<BR>
 
 We suggest that you submit your papers directly to JBMS if you think your paper meets the journal paper quality. Please follow the JBMS paper submission instructions, and remember to select the **[JBMS VDOS collection](https://www.biomedcentral.com/collections/vdos2023)** link (Note: the collection is labeled as **vdos2023**, but it can still be used for vdos2024 submission). Please note that there is no guarantee that the journal submission will be reviewed before the workshop. If the journal submission is not reviewed in a timely manner, the authors may be suggested to submit an abstract to EasyChair so that they may still be able to present the paper in the workshop.  
