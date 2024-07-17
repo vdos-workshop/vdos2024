@@ -1,5 +1,5 @@
 # VDOS-2024: International Workshop on Vaccine and Drug Ontology Studies (July 22nd, 2024) Program
-Virtual: __[Zoom](https://umich.zoom.us/j/91595773163) (Passcode: 264257)__<BR>
+Virtual: __[https://umich.zoom.us/j/91595773163](https://umich.zoom.us/j/91595773163) (Passcode: 264257)__<BR>
 
 ## Program (Time zone: Eastern Daylight Time)
 | New Order | Start time | End time   | Presenter           | Title                                                                                     | Category                  |
